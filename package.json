@@ -1,6 +1,6 @@
 {
-  "name": "@philly25/react-native-paytm",
-  "version": "1.0.12",
+  "name": "@faisalali19/react-native-paytm",
+  "version": "1.0.13",
   "description": "Unofficial React Native wrapper for PayTM",
   "main": "index.js",
   "repository": {
@@ -8,8 +8,8 @@
     "url": "git+https://github.com/opsway/react-native-paytm.git"
   },
   "_npmUser": {
-    "email": "baldinant@gmail.com",
-    "name": "Anton Baldin"
+    "email": "faisalali1901@gmail.com",
+    "name": "Faisal Ali"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
